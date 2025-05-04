@@ -17,3 +17,5 @@
 
 # Unity Asset Store tools
 [Aa]ssets/AssetStoreTools*
+config.bat
+node_modules
