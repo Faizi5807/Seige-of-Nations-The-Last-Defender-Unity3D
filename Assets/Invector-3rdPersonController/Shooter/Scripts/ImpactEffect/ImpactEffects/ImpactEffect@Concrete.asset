@@ -1,18 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f334876bec89dc40a58d294e54231d4, type: 3}
-  m_Name: ImpactEffect@Concrete
-  m_EditorClassIdentifier: 
-  decals:
-  - {fileID: 183892, guid: adcc07c1b4d949244958f04e8b4afad7, type: 3}
-  hitEffects:
-  - {fileID: 100000, guid: 623c02857372d0e4c9a8dc809104498c, type: 3}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f5c5fa12a6c5c09dd87dfb208b3c7df09d74cb525fde0b40d986891aeb972bd
+size 762

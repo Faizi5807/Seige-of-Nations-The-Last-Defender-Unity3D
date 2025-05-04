@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.spoiledcat.git": {
       "version": "1.0.44",
       "depth": 0,
@@ -7,6 +8,8 @@
       "dependencies": {},
       "url": "https://registry.spoiledcat.com"
     },
+=======
+>>>>>>> master
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -23,7 +26,11 @@
       }
     },
     "com.unity.ai.navigation": {
+<<<<<<< HEAD
       "version": "2.0.6",
+=======
+      "version": "2.0.7",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -42,7 +49,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
+<<<<<<< HEAD
       "version": "1.8.19",
+=======
+      "version": "1.8.21",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -73,8 +84,13 @@
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.17",
+<<<<<<< HEAD
         "com.unity.test-framework": "1.4.5",
         "com.unity.nuget.mono-cecil": "1.11.4",
+=======
+        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.test-framework": "1.4.5",
+>>>>>>> master
         "com.unity.test-framework.performance": "3.0.3"
       },
       "url": "https://packages.unity.com"
@@ -82,12 +98,20 @@
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 0,
+<<<<<<< HEAD
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
       "version": "3.0.31",
+=======
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.ide.rider": {
+      "version": "3.0.36",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -96,7 +120,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
+<<<<<<< HEAD
       "version": "2.0.22",
+=======
+      "version": "2.0.23",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -112,7 +140,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
+<<<<<<< HEAD
       "version": "1.13.1",
+=======
+      "version": "1.14.0",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -173,14 +205,24 @@
       "source": "registry",
       "dependencies": {
         "com.unity.shadergraph": "17.0.3",
+<<<<<<< HEAD
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.physics": "1.0.0",
         "com.unity.settings-manager": "1.0.3"
+=======
+        "com.unity.settings-manager": "1.0.3",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
+>>>>>>> master
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
+<<<<<<< HEAD
       "version": "17.0.4",
+=======
+      "version": "17.1.0",
+>>>>>>> master
       "depth": 0,
       "source": "builtin",
       "dependencies": {
@@ -195,12 +237,21 @@
       }
     },
     "com.unity.render-pipelines.universal": {
+<<<<<<< HEAD
       "version": "17.0.4",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "17.0.4",
         "com.unity.shadergraph": "17.0.4",
+=======
+      "version": "17.1.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "17.1.0",
+        "com.unity.shadergraph": "17.1.0",
+>>>>>>> master
         "com.unity.render-pipelines.universal-config": "17.0.3"
       }
     },
@@ -230,13 +281,22 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.analytics": {
+<<<<<<< HEAD
       "version": "6.0.1",
+=======
+      "version": "6.0.2",
+>>>>>>> master
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0",
+<<<<<<< HEAD
         "com.unity.services.core": "1.12.4",
         "com.unity.modules.jsonserialize": "1.0.0"
+=======
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.services.core": "1.12.4"
+>>>>>>> master
       },
       "url": "https://packages.unity.com"
     },
@@ -245,30 +305,52 @@
       "depth": 2,
       "source": "registry",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.modules.androidjni": "1.0.0",
         "com.unity.nuget.newtonsoft-json": "3.2.1",
         "com.unity.modules.unitywebrequest": "1.0.0"
+=======
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.modules.androidjni": "1.0.0"
+>>>>>>> master
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.settings-manager": {
+<<<<<<< HEAD
       "version": "2.0.1",
+=======
+      "version": "2.1.0",
+>>>>>>> master
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
+<<<<<<< HEAD
       "version": "17.0.4",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "17.0.4",
+=======
+      "version": "17.1.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "17.1.0",
+>>>>>>> master
         "com.unity.searcher": "4.9.3"
       }
     },
     "com.unity.terrain-tools": {
+<<<<<<< HEAD
       "version": "5.1.2",
+=======
+      "version": "5.2.1",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -278,13 +360,20 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
+<<<<<<< HEAD
       "version": "1.4.6",
       "depth": 0,
       "source": "registry",
+=======
+      "version": "1.5.1",
+      "depth": 0,
+      "source": "builtin",
+>>>>>>> master
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
+<<<<<<< HEAD
       },
       "url": "https://packages.unity.com"
     },
@@ -294,6 +383,16 @@
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.31",
+=======
+      }
+    },
+    "com.unity.test-framework.performance": {
+      "version": "3.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.33",
+>>>>>>> master
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -303,9 +402,15 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
+=======
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
+>>>>>>> master
         "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -320,7 +425,11 @@
       }
     },
     "com.unity.visualscripting": {
+<<<<<<< HEAD
       "version": "1.9.5",
+=======
+      "version": "1.9.6",
+>>>>>>> master
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -329,6 +438,18 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.xr.core-utils": {
+      "version": "2.5.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> master
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.12",
       "depth": 1,
@@ -340,6 +461,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.management": {
+<<<<<<< HEAD
       "version": "4.5.0",
       "depth": 0,
       "source": "registry",
@@ -348,6 +470,17 @@
         "com.unity.modules.xr": "1.0.0",
         "com.unity.modules.subsystems": "1.0.0",
         "com.unity.xr.legacyinputhelpers": "2.1.7"
+=======
+      "version": "4.5.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.xr.core-utils": "2.2.1",
+        "com.unity.xr.legacyinputhelpers": "2.1.11"
+>>>>>>> master
       },
       "url": "https://packages.unity.com"
     },

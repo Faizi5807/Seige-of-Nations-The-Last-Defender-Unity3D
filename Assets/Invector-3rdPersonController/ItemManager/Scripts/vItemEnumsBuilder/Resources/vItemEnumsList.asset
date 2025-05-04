@@ -1,30 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68fa35b27a7967c4a94bcc4596c2aef1, type: 3}
-  m_Name: vItemEnumsList
-  m_EditorClassIdentifier: 
-  itemTypeEnumValues:
-  - Consumable
-  - Builder
-  itemAttributesEnumValues:
-  - Health
-  - MaxHealth
-  - MaxStamina
-  - Stamina
-  itemTypeEnumFormats:
-  - 
-  - 
-  itemAttributesEnumFormats:
-  - 
-  - 
-  - 
-  - 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d403f863306d620faebb7c292699614512760b92d7db177db55c9d576a7f1cae
+size 814
