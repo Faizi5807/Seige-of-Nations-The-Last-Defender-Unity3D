@@ -1,0 +1,43 @@
+# ========== Unity Generated Files ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+*.stacktrace
+
+# ========== Crash Reports & Dumps ==========
+[Cc]rash/
+[Dd]ump/
+
+# ========== Auto-generated C# Solution Files ==========
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# ========== Unity Asset Store Tools ==========
+[Aa]ssets/AssetStoreTools*
+
+# ========== IDE Settings (Rider, VSCode, JetBrains) ==========
+.idea/
+.vscode/
+*.code-workspace
+
+# ========== OS/System Files ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Git Files ==========
+*.orig
